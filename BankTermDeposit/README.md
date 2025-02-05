@@ -1,4 +1,4 @@
-# posit Prediction - Exploratory Data Analysis (EDA)
+# Term Deposit Prediction - Exploratory Data Analysis (EDA)
 
 ## Overview
 
